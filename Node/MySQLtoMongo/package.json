@@ -1,0 +1,19 @@
+{
+  "name": "MySQLtoMongo",
+  "version": "0.0.0",
+  "description": "converting Mysql 3 table data in single document for mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mysql",
+    "Mongodb"
+  ],
+  "author": "Andoni Lloret",
+  "license": "GNU",
+  "dependencies": {
+    "mysql": "~2.11.1",
+    "mongodb": "~2.1.18"
+  }
+}
